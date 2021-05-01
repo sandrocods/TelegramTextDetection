@@ -1,6 +1,8 @@
 ###  Image Text Detection To Speech Audio Telegram Integration
 
-
+<p align="center">
+  <img width="460" height="300" src="https://i.ibb.co/y80GV9X/Image-Text-detection-To-Speech-Audio-Telegram-Integration.png">
+</p>
 
 
 
